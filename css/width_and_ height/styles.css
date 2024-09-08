@@ -1,0 +1,22 @@
+
+input{
+    width: 90%px;
+}
+form{
+    width: 400px;
+}
+h1{
+    text-align: center;
+}
+div{
+    background-color: blue;
+    width: 400px;
+    height: 200px;
+}
+h2{
+    color: white;
+    font-style: oblique;
+    font-weight: 900;
+    background-color: black;
+    height: 100px;
+}
